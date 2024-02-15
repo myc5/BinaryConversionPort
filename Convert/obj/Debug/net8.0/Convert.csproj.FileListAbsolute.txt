@@ -1,0 +1,14 @@
+D:\Downloads\zL\C#\BinaryConversionPort\convert\bin\Debug\net8.0\Convert.exe
+D:\Downloads\zL\C#\BinaryConversionPort\convert\bin\Debug\net8.0\Convert.deps.json
+D:\Downloads\zL\C#\BinaryConversionPort\convert\bin\Debug\net8.0\Convert.runtimeconfig.json
+D:\Downloads\zL\C#\BinaryConversionPort\convert\bin\Debug\net8.0\Convert.dll
+D:\Downloads\zL\C#\BinaryConversionPort\convert\bin\Debug\net8.0\Convert.pdb
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.AssemblyInfoInputs.cache
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.AssemblyInfo.cs
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.csproj.CoreCompileInputs.cache
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.dll
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\refint\Convert.dll
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.pdb
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.genruntimeconfig.cache
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\ref\Convert.dll
