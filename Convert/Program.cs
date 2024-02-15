@@ -1,8 +1,9 @@
 ﻿// Rewriting my very first Python App in C# -> Convert between Base 2 and Base 10 units
-// ToDo: Allow conversion from units of different "tiers", based on the size of the result.
+// ToDo: Allow conversion from units of different "tiers", based on the size of the result
 
+do 
+{
 string choiceValue = "";
-
 Console.WriteLine("Please enter the value you want to convert without units: ");
 float val;
 
@@ -79,7 +80,8 @@ if (choiceBase == "2")
     }
 
 }
-
+Console.WriteLine("Rerun? [Y/n]");
+ } while (Console.ReadLine() != "n");
 
 
 

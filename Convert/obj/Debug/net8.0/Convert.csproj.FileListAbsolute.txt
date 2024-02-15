@@ -12,3 +12,4 @@ D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\refint\Convert.
 D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.pdb
 D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.genruntimeconfig.cache
 D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\ref\Convert.dll
+D:\Downloads\zL\C#\BinaryConversionPort\convert\obj\Debug\net8.0\Convert.sourcelink.json
